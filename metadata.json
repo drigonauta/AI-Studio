@@ -1,0 +1,8 @@
+{
+  "name": "EmailGenius AI",
+  "description": "A high-performance email marketing suite that generates complete campaigns with high-converting copy and stunning AI visuals powered by Gemini.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
